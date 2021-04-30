@@ -1,0 +1,9 @@
+[submodule "datapoint-cpp"]
+	path = datapoint-cpp
+	url = https://github.com/percz/datapoint-cpp
+[submodule "simpleini"]
+	path = simpleini
+	url = https://github.com/brofield/simpleini
+[submodule "MySQL-Connector-Cpp-Wrapper-Class"]
+	path = MySQL-Connector-Cpp-Wrapper-Class
+	url = https://github.com/percz/MySQL-Connector-Cpp-Wrapper-Class
